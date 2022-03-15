@@ -1,3 +1,7 @@
-# javascript-method-examples
+Team Members:
 
-Examples code for Assignment 2 - JavaScript Methods.
+Sunny Kwong: KwongSunny
+
+Christy Li: christy8059
+
+Justin Quach: quachjustin
